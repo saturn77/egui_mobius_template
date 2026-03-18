@@ -6,13 +6,13 @@ edition = "2021"
 [dependencies]
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
-eframe = "0.32" # For egui-based applications
-egui = "0.32"
-egui_dock = "0.17.0"
-egui_extras = { version = "0.32", features = ["image"] } # For image loading and other utilities
-egui_mobius = "=0.3.0-alpha.32" # Core mobius framework
-egui_mobius_widgets = "=0.3.0-alpha.32" # For egui widgets
-egui_mobius_reactive = "=0.3.0-alpha.32" # For reactive state management
+eframe = "0.33" # For egui-based applications
+egui = "0.33"
+egui_dock = "0.18.0"
+egui_extras = { version = "0.33", features = ["image"] } # For image loading and other utilities
+egui_mobius = "=0.3.0-alpha.33" # Core mobius framework
+egui_mobius_widgets = "=0.3.0-alpha.33" # For egui widgets
+egui_mobius_reactive = "=0.3.0-alpha.33" # For reactive state management
 chrono = { version = "0.4", features = ["serde"] } # For timestamps
 image = "0.24" # For image loading
 once_cell = "1.19" # For static initialization
@@ -20,7 +20,7 @@ dirs = "5.0" # For config directory paths
 tokio = {version = "1.44.1", features = ["full"]}
 env_logger = "0.11.7"
 log = "0.4.27"
-egui_plot = "0.33.0"
+egui_plot = "0.34.0"
 ndarray = "0.16.1"
 
 [[example]]

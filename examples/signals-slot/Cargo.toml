@@ -5,9 +5,9 @@ edition = "2021"
 
 [dependencies]
 # Core dependencies
-egui = "0.32"
-eframe = "0.32"
-egui_plot = "0.33.0"
+egui = "0.33"
+eframe = "0.33"
+egui_plot = "0.34.0"
 ndarray = "0.16.1"
 env_logger = "0.11.7"
 log = "0.4"

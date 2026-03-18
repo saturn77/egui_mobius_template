@@ -9,10 +9,10 @@
 [![Version](https://img.shields.io/badge/version-0.1.0-blue)](https://github.com/saturn77/egui_mobius_template)
 [![Author](https://img.shields.io/badge/author-saturn77-orange)](https://github.com/saturn77)
 
-[![egui](https://img.shields.io/badge/egui-0.32-blue)](https://github.com/emilk/egui)
-[![egui_mobius_reactive](https://img.shields.io/badge/egui__mobius__reactive-0.3.0--alpha.32-blue)](https://github.com/saturn77/egui_mobius_reactive)
-[![egui_mobius_widgets](https://img.shields.io/badge/egui__mobius__widgets-0.3.0--alpha.32-blue)](https://github.com/saturn77/egui_mobius_widgets)
-[![egui_dock](https://img.shields.io/badge/egui__dock-0.17.0-blue)](https://github.com/luca-della-vedova/egui_dock)
+[![egui](https://img.shields.io/badge/egui-0.33-blue)](https://github.com/emilk/egui)
+[![egui_mobius_reactive](https://img.shields.io/badge/egui__mobius__reactive-0.3.0--alpha.33-blue)](https://github.com/saturn77/egui_mobius_reactive)
+[![egui_mobius_widgets](https://img.shields.io/badge/egui__mobius__widgets-0.3.0--alpha.33-blue)](https://github.com/saturn77/egui_mobius_widgets)
+[![egui_dock](https://img.shields.io/badge/egui__dock-0.18.0-blue)](https://github.com/Adanos020/egui_dock)
 
 </div>
 
@@ -97,18 +97,18 @@ A comprehensive template for building modern, reactive GUI applications with `eg
 ## Dependencies
 
 ### Core GUI Framework
-- `egui` (0.32) - Immediate mode GUI framework
-- `eframe` (0.32) - Framework for egui applications
-- `egui_extras` (0.32) - Additional utilities and image loading support
+- `egui` (0.33) - Immediate mode GUI framework
+- `eframe` (0.33) - Framework for egui applications
+- `egui_extras` (0.33) - Additional utilities and image loading support
 
 ### Mobius Framework
-- `egui_mobius` (0.3.0-alpha.32) - Core reactive programming framework
-- `egui_mobius_reactive` (0.3.0-alpha.32) - Reactive state management
-- `egui_mobius_widgets` (0.3.0-alpha.32) - Custom widgets
+- `egui_mobius` (0.3.0-alpha.33) - Core reactive programming framework
+- `egui_mobius_reactive` (0.3.0-alpha.33) - Reactive state management
+- `egui_mobius_widgets` (0.3.0-alpha.33) - Custom widgets
 
 ### Layout & UI
-- `egui_dock` (0.17.0) - Docking system for panel management
-- `egui_plot` (0.33.0) - Plotting and data visualization
+- `egui_dock` (0.18.0) - Docking system for panel management
+- `egui_plot` (0.34.0) - Plotting and data visualization
 
 ### Utilities
 - `serde` (1.0) - Serialization for settings
